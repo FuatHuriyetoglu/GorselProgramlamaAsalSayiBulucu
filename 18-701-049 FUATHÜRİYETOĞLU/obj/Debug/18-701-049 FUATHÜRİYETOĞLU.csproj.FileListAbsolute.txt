@@ -1,0 +1,10 @@
+C:\Users\Fuat\source\repos\18-701-049 FUATHÜRİYETOĞLU\18-701-049 FUATHÜRİYETOĞLU\bin\Debug\18-701-049 FUATHÜRİYETOĞLU.exe.config
+C:\Users\Fuat\source\repos\18-701-049 FUATHÜRİYETOĞLU\18-701-049 FUATHÜRİYETOĞLU\bin\Debug\18-701-049 FUATHÜRİYETOĞLU.exe
+C:\Users\Fuat\source\repos\18-701-049 FUATHÜRİYETOĞLU\18-701-049 FUATHÜRİYETOĞLU\bin\Debug\18-701-049 FUATHÜRİYETOĞLU.pdb
+C:\Users\Fuat\source\repos\18-701-049 FUATHÜRİYETOĞLU\18-701-049 FUATHÜRİYETOĞLU\obj\Debug\18-701-049 FUATHÜRİYETOĞLU.csprojAssemblyReference.cache
+C:\Users\Fuat\source\repos\18-701-049 FUATHÜRİYETOĞLU\18-701-049 FUATHÜRİYETOĞLU\obj\Debug\_18_701_049_FUATHÜRİYETOĞLU.Form1.resources
+C:\Users\Fuat\source\repos\18-701-049 FUATHÜRİYETOĞLU\18-701-049 FUATHÜRİYETOĞLU\obj\Debug\_18_701_049_FUATHÜRİYETOĞLU.Properties.Resources.resources
+C:\Users\Fuat\source\repos\18-701-049 FUATHÜRİYETOĞLU\18-701-049 FUATHÜRİYETOĞLU\obj\Debug\18-701-049 FUATHÜRİYETOĞLU.csproj.GenerateResource.cache
+C:\Users\Fuat\source\repos\18-701-049 FUATHÜRİYETOĞLU\18-701-049 FUATHÜRİYETOĞLU\obj\Debug\18-701-049 FUATHÜRİYETOĞLU.csproj.CoreCompileInputs.cache
+C:\Users\Fuat\source\repos\18-701-049 FUATHÜRİYETOĞLU\18-701-049 FUATHÜRİYETOĞLU\obj\Debug\18-701-049 FUATHÜRİYETOĞLU.exe
+C:\Users\Fuat\source\repos\18-701-049 FUATHÜRİYETOĞLU\18-701-049 FUATHÜRİYETOĞLU\obj\Debug\18-701-049 FUATHÜRİYETOĞLU.pdb
